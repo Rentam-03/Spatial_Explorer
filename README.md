@@ -1,6 +1,8 @@
 # Spatial_Explorer
 # 🧬 Spatial Transcriptomics Explorer
 
+An interactive dashboard for exploring spatial gene expression data using 10x Visium HD datasets.
+
 ![Demo](assets/demo.gif)
 
 ---
